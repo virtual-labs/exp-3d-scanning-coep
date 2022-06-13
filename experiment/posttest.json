@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "THE DEFAULT SCAN DATA CAN BE EXPORTED IN THE FORMAT OF",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "VRML",
+        "b": "STL",
+        "c": "IGES",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "LOWER THE PITCH VALUE HIGHER WILL BE",
+      "answers": {
+        "a": "Data point destiny",
+        "b": "Data scanning accuracy",
+        "c": "Scanning time",
+        "d": "All of the above"
       },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "POINT CLOUD DATA GENERATED IS REPRESENTED IN THE FORM OF",
+      "answers": {
+        "a": "Wire Frame model",
+        "b": "Solid model",
+        "c": "Surface model",
+        "d": "All of the above"
+      },
+     
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "THE SCANNER USED IN THIS EXPERIMENT IS",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Non-Contact Type",
+        "b": "Electron Beam Scanner",
+        "c": "Laser Scanner",
+        "d": "Contact Type"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "APPLICATION OF 3D SCANNER",
+      "answers": {
+        "a": "0.499",
+        "b": "0.394",
+        "c": "0.299",
+        "d": "0.129"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
