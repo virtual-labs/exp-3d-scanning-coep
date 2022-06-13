@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "3D SCANNING IS A",
+      "answers": {
+        "a": "Computation",
+        "b": "printing",
+        "c": "Digitization",
+        "d": "Reverse Engineering"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A COORDINATE MEASURING MACHINE (CMM)",
+      "answers": {
+        "a": "Non-Contact type Scanner",
+        "b": "Contact type Scanner",
+        "c": "Continuous type Scanner",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "POINT CLOUD IN 3D SCANNING IS",
+      "answers": {
+        "a": "Accumulation of X, Y, Z points",
+        "b": "scattering of X, Y, Z points",
+        "c": "Clustering of X, Y, Z Points",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3D SCANNING DATA COLLECTED IS",
+      "answers": {
+        "a": "Shape",
+        "b": "Color",
+        "c": "Lines & Curves",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A LASER SCANNER AT A TIME CAN",
+      "answers": {
+        "a": "Scan only two line",
+        "b": "Scan only three line",
+        "c": "Scan only Points",
+        "d": "Scan only one line"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
