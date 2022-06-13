@@ -60,8 +60,10 @@ WoodCuttingObj.LevelOneConfig = function(){
 						{
 				 
 				 MachineDrawing_3DScanning();
+				$("#OPFormatBtn").attr("disabled", true);
 				 
 						});
+						
 			 
 			 
 			 
