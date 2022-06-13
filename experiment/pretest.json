@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "3D SCANNING IS A",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Computation",
+        "b": "printing",
+        "c": "Digitization",
+        "d": "Reverse Engineering"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "A COORDINATE MEASURING MACHINE (CMM)",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Non-Contact type Scanner",
+        "b": "Contact type Scanner",
+        "c": "Continuous type Scanner",
+        "d": "All of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "POINT CLOUD IN 3D SCANNING IS",
+      "answers": {
+        "a": "Accumulation of X, Y, Z points",
+        "b": "scattering of X, Y, Z points",
+        "c": "Clustering of X, Y, Z Points",
+        "d": "All of the above"
       },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3D SCANNING DATA COLLECTED IS",
+      "answers": {
+        "a": "Shape",
+        "b": "Color",
+        "c": "Lines & Curves",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A LASER SCANNER AT A TIME CAN",
+      "answers": {
+        "a": "Scan only two line",
+        "b": "Scan only three line",
+        "c": "Scan only Points",
+        "d": "Scan only one line"
+      },
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
